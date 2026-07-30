@@ -10,5 +10,7 @@
   { "id": 1021251, "seed_id": 21251, "fruit_id": 41251, "asset_name": "Crop_1251", "name": "紫玫瑰" },
   { "id": 1021380, "seed_id": 21380, "fruit_id": 41380, "asset_name": "Crop_1380", "name": "米兰花" },
   { "id": 1020129, "seed_id": 20129, "fruit_id": 40129, "asset_name": "Crop_129", "name": "勿忘我" },
-  { "id": 1020375, "seed_id": 20375, "fruit_id": 40375, "asset_name": "Crop_375", "name": "木槿" }
+  { "id": 1020375, "seed_id": 20375, "fruit_id": 40375, "asset_name": "Crop_375", "name": "木槿" },
+  { "id": 1020207, "seed_id": 20207, "fruit_id": 40207, "asset_name": "Crop_207", "name": "绣球花" },
+  { "id": 1020329, "seed_id": 20329, "fruit_id": 40329, "asset_name": "Crop_329", "name": "发财红包" }
 ]
