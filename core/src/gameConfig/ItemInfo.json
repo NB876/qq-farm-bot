@@ -15924,5 +15924,29 @@
     "type": 0,
     "name": "足球",
     "asset_name": "gui/texture/activity/WorldCup/img_football1"
+  },
+  {
+    "id": 204006,
+    "type": 18,
+    "name": "星语花铃",
+    "target_id": 204006,
+    "asset_name": "Crop_8003",
+    "icon_res": "gui/texture/skinDetail/img_skin_tower_3/spriteFrame",
+    "max_count": 99,
+    "max_own": 99,
+    "desc": "卖给商人后，可以获得金币。",
+    "effectDesc": "卖给商人后，可以获得金币。"
+  },
+  {
+    "id": 204007,
+    "type": 18,
+    "name": "黄金·星语花铃",
+    "target_id": 204007,
+    "asset_name": "gold/Crop_8003",
+    "icon_res": "gui/texture/skinDetail/img_skin_tower_3_1/spriteFrame",
+    "max_count": 99,
+    "max_own": 99,
+    "desc": "卖给商人后，可以获得金豆豆。",
+    "effectDesc": "卖给商人后，可以获得金豆豆。"
   }
 ]
